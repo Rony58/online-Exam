@@ -1,0 +1,314 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c874462c094a76d22949935c839c886c6bdbcb5d",
+    "jarFileModificationDate": "2015-04-20T19:33:35.370+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "79ca23ce08662e635b27070c31e7b01fc37b1aac",
+    "jarFileModificationDate": "2015-04-20T19:33:28.370+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdd6c9adf380a1ec5251193f4551cbabf656e413",
+    "jarFileModificationDate": "2014-04-24T14:29:54+05:30",
+    "location": "C:\\Users\\Kobinath\\Downloads\\UCanAccess-2.0.9.4-bin\\UCanAccess-2.0.9.4-bin\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b90787cc292ead2a59d6a1d6bfd8212e7550bdd8",
+    "jarFileModificationDate": "2015-04-20T19:33:28.327+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\access-bridge.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ef9ace6009f2922de1787738cdd33fc320e0fc18",
+    "jarFileModificationDate": "2015-04-20T19:33:28.347+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2a168e4dd5f0385ccde79ce9edf6643e6d1cbc97",
+    "jarFileModificationDate": "2015-04-20T19:33:28.369+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f9cbbfb90bdeb9753ed9649cda0e191e38ab5fc3",
+    "jarFileModificationDate": "2015-04-20T19:33:34.711+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a2e21744247b625ed7e2050f03f3a80f3a255727",
+    "jarFileModificationDate": "2015-04-20T19:33:36.657+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c8e6b6a7a18019a638870539c4405ea23fbe6ca9",
+    "jarFileModificationDate": "2015-04-20T19:33:28.375+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ce1edb914c94ebc388f086c6827e8bdeec71ac2",
+    "jarFileModificationDate": "2013-11-16T01:53:00+05:30",
+    "location": "C:\\Users\\Kobinath\\Downloads\\UCanAccess-2.0.9.4-bin\\UCanAccess-2.0.9.4-bin\\lib\\commons-lang-2.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "55fc5b5e5abaf9f48d9d3472018d46f2a96e1769",
+    "jarFileModificationDate": "2015-04-20T19:33:28.459+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.healthmarketscience.jackcess",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 8,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99fc120ec99c159a2377f5885da2ec74490012cb",
+    "jarFileModificationDate": "2015-01-16T20:35:58+05:30",
+    "location": "C:\\Users\\Kobinath\\Downloads\\UCanAccess-2.0.9.4-bin\\UCanAccess-2.0.9.4-bin\\lib\\jackcess-2.0.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sf.ucanaccess.ucanaccess",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 9,
+      "qualifier": "4"
+    },
+    "jarFileFingerprint": "21c480a97b7786dbe1cbd6706ff3e25bc35dacf7",
+    "jarFileModificationDate": "2015-03-10T10:57:16+05:30",
+    "location": "C:\\Users\\Kobinath\\Downloads\\UCanAccess-2.0.9.4-bin\\UCanAccess-2.0.9.4-bin\\lib\\ucanaccess-2.0.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2c40d4b6a08d1761090b585de066a269c3611efe",
+    "jarFileModificationDate": "2015-04-20T19:33:28.368+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c719c208aef588e7247ae6cbb590674d7e288076",
+    "jarFileModificationDate": "2015-04-20T19:33:34.912+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "89fd6ff6f9cac658cb4128287bc9aa08f45f6e35",
+    "jarFileModificationDate": "2015-04-20T19:33:28.347+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8abeb866dd408e58086d17f98e6f32b9a9c5051e",
+    "jarFileModificationDate": "2015-04-20T19:33:28.409+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.hsqldb.hsqldb",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bd7153caa30958e1c64a3dd38b93e5a7442d9a0e",
+    "jarFileModificationDate": "2013-10-07T22:52:56+05:30",
+    "location": "C:\\Users\\Kobinath\\Downloads\\UCanAccess-2.0.9.4-bin\\UCanAccess-2.0.9.4-bin\\lib\\hsqldb.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "888766b5d64f1bdd4d611fcc1654156d5e4c21d4",
+    "jarFileModificationDate": "2015-04-20T19:33:28.347+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3f1050c75d139479eb4fc100936fc08a9385bd1",
+    "jarFileModificationDate": "2015-04-20T19:33:28.374+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "beansbinding-1.2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5a34143743fc23e24b27e7cb7042ff0fb710a69b",
+    "jarFileModificationDate": "2015-04-18T19:02:22+05:30",
+    "location": "E:\\OnLineExam\\pr\\bin\\OnLineExam\\OnLineExam\\dist\\lib\\beansbinding-1.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4c517b0332501940a54306743c233c6e5e15d2b2",
+    "jarFileModificationDate": "2015-04-20T19:33:28.372+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a25487fe93fbe60eb49c113cb4dd9f5c1d71ac38",
+    "jarFileModificationDate": "2015-04-20T19:33:28.419+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "60d4cad58d5ad224056bb9deaf841be7dc57cdfc",
+    "jarFileModificationDate": "2015-04-20T19:33:35.070+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_45\\lib\\jsse.jar",
+    "javaRuntime": true
+  }
+]

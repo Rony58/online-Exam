@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/OnLineExam.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86_64-20130522/docs/OnLineExam/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86_64-20130522/docs/OnLineExam/dist/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86_64-20130522/docs/OnLineExam/dist/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86_64-20130522/docs/OnLineExam/dist/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86_64-20130522/docs/OnLineExam/dist/lib/jackcess-2.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86_64-20130522/docs/OnLineExam/dist/lib/ucanaccess-2.0.9.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
